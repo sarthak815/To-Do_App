@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent">
+        <TextView
+            android:id="@+id/note"
+            android:padding="5dp"
+            android:textColor="@color/colorPrimaryDark"
+            android:textSize="15sp"
+            android:text="Test text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+
+</androidx.cardview.widget.CardView>
